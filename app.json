@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Gym Cycle",
+    "slug": "gym-cycle-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B0E14"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B0E14"
+      }
+    }
+  }
+}
